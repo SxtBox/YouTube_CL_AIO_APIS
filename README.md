@@ -11,3 +11,7 @@ Download Mixed Data From YouShit
 
     MP4 payer: https://paidcodes.albdroid.al/Youtube_APIS/Downloader/
     JSON API: https://paidcodes.albdroid.al/Youtube_APIS/Downloader/get_stream.php
+
+# RULES
+    AL: KETA API JANE VETEM PER DEMOSTRIM, NESE JU E KEQPERDORNI DO TE HUMBISNI KOMUNIKIMIN ME SERVERAT TANE
+    EN: THESE APIS ARE FOR DEMONSTRATION ONLY, IF YOU MISUSE IT YOU WILL LOSE COMMUNICATION WITH OUR SERVERS
