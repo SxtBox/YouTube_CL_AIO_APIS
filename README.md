@@ -9,7 +9,7 @@ Download Mixed Data From YouShit
     
 # MP4 Player & API
 
-    MP4 payer: https://paidcodes.albdroid.al/Youtube_APIS/Downloader/
+    MP4 Payer: https://paidcodes.albdroid.al/Youtube_APIS/Downloader/
     JSON API: https://paidcodes.albdroid.al/Youtube_APIS/Downloader/get_stream.php
 
 # RULES
