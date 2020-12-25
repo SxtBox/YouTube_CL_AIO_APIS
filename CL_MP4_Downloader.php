@@ -26,6 +26,9 @@
 // HOSTED APIS https://paidcodes.albdroid.al/Youtube_APIS/Downloader/
 // JSON API https://paidcodes.albdroid.al/Youtube_APIS/Downloader/get_stream.php
 
+// RULES AL: Ky API Eshte Vetem Per Demostrim, Nese Ju e Keqperdorni Do Te Humbisni Komunikimin Me Serverat Tane
+// RULES EN: This API is For Demonstration Only, If You Misuse It You Will Lose Communication With Our Servers
+
 error_reporting(0);
 set_time_limit(0);
 date_default_timezone_set("Europe/Tirane");
