@@ -1,0 +1,21 @@
+CLOSE VLC
+
+COPY & PASTE youtube.lua playlist_youtube.lua
+
+PASTE PATH
+C:\Program Files (x86)\VideoLAN\VLC\lua\playlist
+OR
+C:\Program Files\VideoLAN\VLC\lua\playlist
+
+IF U HAVE ANY YOUTUBE PLUGINS IN \VideoLAN\VLC\lua\playlist DELETE OR RENAME TO .txt DONT LEAVE WITH .lua or luac TO END
+
+OPEN VLC -> OPEN NETWORK STREAM
+ADD THESE LINKS FORMATS
+
+PLAYLIST https://www.youtube.com/playlist?list=PLxKkYph0URW6sXcCj8JhBR_ghHhD6qUAa
+
+LIVESTREAM https://www.youtube.com/watch?v=v3jpVUOi9XU
+
+VIDEO https://www.youtube.com/watch?v=6IrO01N9LqM
+
+or USE Example_Playlist.m3u
