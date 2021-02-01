@@ -7,15 +7,15 @@ Download Mixed Data From YouTube
 # Get Types
 
     download = Direct Downloader
-    mp4      = Smart TV BOX Player [api.php?url=ID or URL&type=mp4]
-    m3u      = Create M3U Structure [api.php?url=ID or URL&type=m3u]
-    raw      = Print String Only [api.php?url=ID or URL&type=raw]
-    xtream   = Xtream Codes [api.php?url=ID or URL&type=xtream]
-    vlc      = Create VLC Structure [api.php?url=ID or URL&type=vlc]
-    smart    = Smart TV Structure [api.php?url=ID or URL&type=smart]
-    kodi     = LSP Kodi Structure [api.php?url=ID or URL&type=kodi]
-    clp      = Clappr Player [api.php?url=ID or URL&type=clp]
-    jwp      = JW Player [api.php?url=ID or URL no needed &type IS Default Player, if u see kodi video = no stream source ]
+    mp4      = Smart TV BOX Player [api.php?url=URL or ID&type=mp4]
+    m3u      = Create M3U Structure [api.php?url=URL or ID&type=m3u]
+    raw      = Print String Only [api.php?url=URL or ID&type=raw]
+    xtream   = Xtream Codes [api.php?url=URL or ID&type=xtream]
+    vlc      = Create VLC Structure [api.php?url=URL or ID&type=vlc]
+    smart    = Smart TV Structure [api.php?url=URL or ID&type=smart]
+    kodi     = LSP Kodi Structure [api.php?url=URL or IDL&type=kodi]
+    clp      = Clappr Player [api.php?url=URL or IDL&type=clp]
+    jwp      = JW Player [api.php?url=URL or ID no needed &type IS Default Player, if u see kodi video = no stream source ]
 
 # Errors
     
