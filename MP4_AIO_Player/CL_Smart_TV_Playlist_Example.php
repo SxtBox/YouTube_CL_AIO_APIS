@@ -41,28 +41,11 @@
 error_reporting(0);
 date_default_timezone_set("Europe/Tirane");
 
-$ROOT_URL_MAIN = "https://paidcodes.albdroid.al/Youtube_APIS/MP4/";
-$Smart_TV_Builder = $ROOT_URL_MAIN . "api.php" . "?url=";
-$type = "&type="."xtream"; // TYPES
-$multi_smart_tv_list = [
-// JUST ADD LINKS AND TITLES HERE AND UPLOAD AS DIRECT LINK FROM YOUR SERVER IN SMART TV OR VLC
-// [URL OR ID HERE]         [TITLE HERE]
-["R_BuxMwkrUs", "Gjiko ft. Skerdi - Si Bugatti"],
-["nSmabhousH4", "Blerina Balili ft. Ergys Hyka & Kleandro Harrunaj - Dasma jone"],
-["WhVehAdpUS0", "HardBass 2012 (Live Registration)"],
-["t4-Xz_Lt2p4", "Silva Gunbardhi ft. Mandi ft. Dafi - Te ka lali shpirt"],
-["wjvSYDlgurI", "Blerina Balili ft. Ergys Hyka & Kleandro Harrunaj - Kolazh Dasme"],
-["JWYdkcJPIhg", "Blerina Balili & Kleandro Harrunaj - Do shijoj rinin"],
-["NJ8cGjzdAKo", "Ilia Basho - Po te pres me pranveren"],
+/*
+ Generator @ Kodi dot AL Dev Tools
+ Code For PHP 5/7
+*/
 
-];
-
-header("Access-Control-Allow-Origin: *");
-header("Content-type: application/json");
-echo "#EXTM3U Albdroid TV Streaming #YouTube Streaming API (2.2.3-DEV Multi) THIS IS EXAMPLE PLAYLIST"."\n";
-foreach($multi_smart_tv_list as list($stream_url, $stream_title)) {
-
-	echo "\r#EXTINF:0,". $stream_title."\n";
-	echo $Smart_TV_Builder.$stream_url.$type ."\n";
-}
+$API_HOST = "https://paidcodes.albdroid.al/Youtube_APIS/MP4/Smart_TV_Playlist.php";
+header("Location: $API_HOST");
 ?>
