@@ -15,7 +15,7 @@ Download Mixed Data From YouTube
     smart    = Smart TV Structure [api.php?url=URL or ID&type=smart]
     kodi     = LSP Kodi Structure [api.php?url=URL or IDL&type=kodi]
     clp      = Clappr Player [api.php?url=URL or IDL&type=clp]
-    jwp      = JW Player [api.php?url=URL or ID no needed &type IS Default Player, if u see kodi video = no stream source ]
+    jwp      = JW Player [api.php?url=URL or ID no needed &type IS Default Player, if u see kodi video => no stream source]
 
 # Errors
     
