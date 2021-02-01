@@ -41,18 +41,12 @@
 error_reporting(0);
 date_default_timezone_set("Europe/Tirane");
 
-if (empty($_SERVER['HTTPS']) || $_SERVER['HTTPS'] === 'off') {
-  $protocol = 'http://';
-} else {
-  $protocol = 'https://';
-}
-
-$ROOT_URL_MAIN = $protocol . $_SERVER['SERVER_NAME'] . dirname($_SERVER['PHP_SELF']) . "/";
+$ROOT_URL_MAIN = "https://paidcodes.albdroid.al/Youtube_APIS/MP4/";
 $Smart_TV_Builder = $ROOT_URL_MAIN . "api.php" . "?url=";
-$type = "&type="."xtream";
+$type = "&type="."xtream"; // TYPES
 $multi_smart_tv_list = [
-// JUST ADD ID's or LINKS AND TITLES HERE AND UPLOAD AS DIRECT LINK FROM YOUR SERVER IN SMART TV OR VLC
-// [URL OR ID]   [TITLE]
+// JUST ADD LINKS AND TITLES HERE AND UPLOAD AS DIRECT LINK FROM YOUR SERVER IN SMART TV OR VLC
+// [URL OR ID HERE]         [TITLE HERE]
 ["R_BuxMwkrUs", "Gjiko ft. Skerdi - Si Bugatti"],
 ["nSmabhousH4", "Blerina Balili ft. Ergys Hyka & Kleandro Harrunaj - Dasma jone"],
 ["WhVehAdpUS0", "HardBass 2012 (Live Registration)"],
@@ -60,6 +54,7 @@ $multi_smart_tv_list = [
 ["wjvSYDlgurI", "Blerina Balili ft. Ergys Hyka & Kleandro Harrunaj - Kolazh Dasme"],
 ["JWYdkcJPIhg", "Blerina Balili & Kleandro Harrunaj - Do shijoj rinin"],
 ["NJ8cGjzdAKo", "Ilia Basho - Po te pres me pranveren"],
+
 ];
 
 header("Access-Control-Allow-Origin: *");
