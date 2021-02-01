@@ -21,7 +21,18 @@ Download Mixed Data From YouTube
     At the moment api has problem only with some Official Artist Channel Profiles
     in some profiles it works and in some it does not.
 <code>https://github.com/SxtBox/YouTube_CL_AIO_APIS/tree/main/MP4_AIO_Player/Screenshots/Error_Detect</code>
-    
+
+
+# Smart TV Playlist Test
+
+<code>https://siptv.eu/mylist</code>
+
+Go to URL: TAB
+
+Paste this url <code>https://paidcodes.albdroid.al/Youtube_APIS/MP4/Smart_TV_Playlist.php</code>
+
+Check <code>Save online</code> <b>[box]</b> And press <b>SEND</b>
+
 # PHP INFO
     AL: Të Gjitha Këto PHP Punojnë në Çdo Server me curl extensions Të Aktivizuar
     EN: All These PHP Works on Any Server With curl extensions Activated
