@@ -7,6 +7,7 @@ Download Mixed Data From YouTube
 # Get Types
 
     download = Direct Downloader
+    mp4      = Smart TV BOX Player
     m3u      = Create M3U Structure
     raw      = Print String Only
     xtream   = Xtream Codes
