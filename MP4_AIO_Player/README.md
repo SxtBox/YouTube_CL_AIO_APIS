@@ -16,6 +16,11 @@ Download Mixed Data From YouTube
     clp      = Clappr Player [Disabled for Fixing]
     jwp      = JW Player [Disabled for Fixing]
 
+# Errors
+    
+    At the moment api has problem only with Official Artist Channel Profiles
+<code>https://github.com/SxtBox/YouTube_CL_AIO_APIS/tree/main/MP4_AIO_Player/Screenshots/Error_Detect</code>
+    
 # PHP INFO
     AL: Të Gjitha Këto PHP Punojnë në Çdo Server me curl extensions Të Aktivizuar
     EN: All These PHP Works on Any Server With curl extensions Activated
