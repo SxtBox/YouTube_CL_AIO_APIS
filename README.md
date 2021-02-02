@@ -9,8 +9,9 @@ Download Mixed Data From YouShit
     
 # MP4 Player & API
 
-    MP4 Payer: https://paidcodes.albdroid.al/Youtube_APIS/Downloader/
-    JSON API: https://paidcodes.albdroid.al/Youtube_APIS/Downloader/get_stream.php
+    MP4 Payer: https://paidcodes.albdroid.al/Youtube_APIS/Downloader
+    MP4 AIO:   https://paidcodes.albdroid.al/Youtube_APIS/MP4
+    JSON API:  https://paidcodes.albdroid.al/Youtube_APIS/Downloader/get_stream.php
 
 # PHP INFO
     AL: Të Gjitha Këto PHP Punojnë në Çdo Server me curl extensions Të Aktivizuar
