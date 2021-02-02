@@ -6,16 +6,19 @@ Download Mixed Data From YouTube
     
 # Get Types
 
-    download = Direct Downloader
-    mp4      = Smart TV BOX Player [api.php?url=URL or ID&type=mp4]
-    m3u      = Create M3U Structure [api.php?url=URL or ID&type=m3u]
-    raw      = Print String Only [api.php?url=URL or ID&type=raw]
-    xtream   = Xtream Codes [api.php?url=URL or ID&type=xtream]
-    vlc      = Create VLC Structure [api.php?url=URL or ID&type=vlc]
-    smart    = Smart TV Structure [api.php?url=URL or ID&type=smart]
-    kodi     = LSP Kodi Structure [api.php?url=URL or IDL&type=kodi]
-    clp      = Clappr Player [api.php?url=URL or IDL&type=clp]
-    jwp      = JW Player [api.php?url=URL or ID no needed &type IS Default Player, if u see kodi video => no stream source]
+    download    = Direct Downloader
+    mp4         = Smart TV BOX Player [api.php?url=URL or ID&type=mp4]
+    m3u         = Create M3U Structure [api.php?url=URL or ID&type=m3u]
+    raw         = Print String Only [api.php?url=URL or ID&type=raw]
+    xtream      = Xtream Codes [api.php?url=URL or ID&type=xtream]
+    vlc         = Create VLC Structure [api.php?url=URL or ID&type=vlc]
+    smart       = Smart TV Structure [api.php?url=URL or ID&type=smart]
+    kodi        = LSP Kodi Structure [api.php?url=URL or IDL&type=kodi]
+    json        = JSON With Entry Attribute [api.php?url=URL or ID&type=json]
+    simple_json = JSON Without Entry Attribute [api.php?url=URL or ID&type=simple_json]
+    json_down   = DOWNLOAD JSON DATA [api.php?url=URL or ID&type=json_down]
+    clp         = Clappr Player [api.php?url=URL or IDL&type=clp]
+    jwp         = JW Player [api.php?url=URL or ID no needed &type IS Default Player, if u see kodi video => no stream source]
 
 # Errors
     
