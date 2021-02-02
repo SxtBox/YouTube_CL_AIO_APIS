@@ -22,7 +22,7 @@ Download Mixed Data From YouTube
 
 # Errors
     
-    At the moment api has problem only with some Official Artist Channel Profiles [VEVO] => ex; F80QIeequEI
+    At the moment api has problem only with some Official Artist Channel Profiles [VEVO] ex: => F80QIeequEI
     in some profiles it works and in some it does not.
 <code>https://github.com/SxtBox/YouTube_CL_AIO_APIS/tree/main/MP4_AIO_Player/Screenshots/Error_Detect</code>
 
