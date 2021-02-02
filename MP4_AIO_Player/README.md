@@ -6,7 +6,7 @@ Download Mixed Data From YouTube
     
 # Get Types
 
-    download    = Direct Downloader
+    download    = Direct Downloader [api.php?url=URL or ID&type=download]
     mp4         = Smart TV BOX Player [api.php?url=URL or ID&type=mp4]
     m3u         = Create M3U Structure [api.php?url=URL or ID&type=m3u]
     raw         = Print String Only [api.php?url=URL or ID&type=raw]
