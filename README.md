@@ -13,6 +13,12 @@ Mixed APIS
     MP4 AIO:   https://paidcodes.albdroid.al/Youtube_APIS/MP4
     JSON API:  https://paidcodes.albdroid.al/Youtube_APIS/Downloader/get_stream.php
 
+# VLC Plugins
+
+    Plugins Path: /YouTube_VLC_LUA_Plugins/
+    Install:      Read iNSTALL.txt
+    Play:         Create Your List And play as m3u in VLC, see Example_Playlist.m3u
+
 # PHP INFO
     AL: Të Gjitha Këto PHP Punojnë në Çdo Server me curl extensions Të Aktivizuar
     EN: All These PHP Works on Any Server With curl extensions Activated
