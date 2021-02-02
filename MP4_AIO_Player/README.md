@@ -44,3 +44,9 @@ Check <code>Save online</code> <b>[box]</b> And press <b>SEND</b>
 # RULES
     AL: KETA API JANE VETEM PER DEMOSTRIM, NESE JU E KEQPERDORNI DO TE HUMBISNI KOMUNIKIMIN ME SERVERAT TANE
     EN: THESE APIS ARE FOR DEMONSTRATION ONLY, IF YOU MISUSE IT YOU WILL LOSE COMMUNICATION WITH OUR SERVERS
+    
+# BIG THANKS TO
+
+Clappr Player <code>https://github.com/clappr</code>
+
+JW Player <code>https://github.com/jwplayer</code>
