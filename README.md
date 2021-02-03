@@ -19,6 +19,10 @@ Mixed APIS
     Install:      Read iNSTALL.txt
     Play:         Create Your List And play as m3u in VLC, see Example_Playlist.m3u
 
+# Playlist Generator for VLC Plugins & Your Personal Links
+
+    URL: https://paidcodes.albdroid.al/Playlist_Generators/VLC
+
 # PHP INFO
     AL: Të Gjitha Këto PHP Punojnë në Çdo Server me curl extensions Të Aktivizuar
     EN: All These PHP Works on Any Server With curl extensions Activated
