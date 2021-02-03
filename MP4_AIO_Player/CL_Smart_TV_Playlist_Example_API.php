@@ -46,6 +46,6 @@ date_default_timezone_set("Europe/Tirane");
  Code For PHP 5/7
 */
 
-$API_HOST = "https://paidcodes.albdroid.al/Youtube_APIS/MP4/Smart_TV_Playlist.php";
+$API_HOST = "https://paidcodes.albdroid.al/Youtube_APIS/MP4/smart";
 header("Location: $API_HOST");
 ?>
