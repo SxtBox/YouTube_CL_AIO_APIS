@@ -1,6 +1,9 @@
 # YouTube CL AIO APIS
 Mixed APIS
 
+# GET
+    ?url=full yt url or id | OR ?id=full yt url or id | if not ?url try ?id
+    
 # Some Native DATA
     https://paidcodes.albdroid.al/Youtube_APIS/Native/
     
@@ -11,6 +14,7 @@ Mixed APIS
 
     MP4 Payer: https://paidcodes.albdroid.al/Youtube_APIS/Downloader
     MP4 AIO:   https://paidcodes.albdroid.al/Youtube_APIS/MP4
+    Another MP4 https://paidcodes.albdroid.al/Youtube_APIS/MP4_Player_Dechiper_Test
     JSON API:  https://paidcodes.albdroid.al/Youtube_APIS/Downloader/get_stream.php
 
 # VLC Plugins
